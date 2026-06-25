@@ -14,6 +14,7 @@ namespace AZURE_APP_Service_test.Pages
 
         public void OnGet()
         {
+            throw new  Exception("Testing Azure Insight");
         }
     }
 
